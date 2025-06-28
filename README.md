@@ -1,4 +1,4 @@
-Thank you for visiting my profile
+This is my personal project dump – everything I’ve worked on ends up here. Thank you for visiting my profile.
 
 <!---
 tantantara/tantantara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
