@@ -1,5 +1,5 @@
 This is my personal project dump.
-Not everything I’ve worked on ends up here. 
+Everything I’ve worked on ends up here. 
 Thank you for visiting my profile.
 
 <!---
